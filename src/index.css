@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+
+/* Fuente estilo "handwriting" para el título */
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.font-marker {
+  font-family: 'Permanent Marker', cursive;
+}
